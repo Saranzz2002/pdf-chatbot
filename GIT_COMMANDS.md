@@ -121,12 +121,10 @@ git branch -M main
 Connect your local folder to GitHub:
 
 ```bash
-git remote add origin https://github.com/YourUsername/pdf-chatbot.git
+git remote add origin https://github.com/Saranzz2002/pdf-chatbot.git
 ```
 
-**⚠️ Replace:**
-- `YourUsername` with your GitHub username
-- This is the URL you copied in Step 1
+This is the URL of your GitHub repository.
 
 ---
 
